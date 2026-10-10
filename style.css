@@ -59,7 +59,7 @@ body {
 
       }
 
-/*Þriðja kortið hjá mér lendir ekki í næstu línu en ég er reyndar með 27" skjá. Ef ég minnka gluggann niður í 900px þá lendir það í næstu línu.*/
+/*Þriðja kortið lendir ekki í næstu línu í 27" skjá. Ef ég zooma inn síðuna þá lendir kortið í næstu línu fyrir neðan.*/
 
 
 /*width: 300px nær sjálfgefið aðeins yfir innihaldið.
